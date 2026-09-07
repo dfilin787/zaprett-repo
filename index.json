@@ -514,17 +514,17 @@
          {
      "name": "qwen2",
      "type": "nfqws2",
-     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/qwen2.json"
+     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen2.json"
     },
        {
      "name": "qwen2.1",
      "type": "nfqws2",
-     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/qwen2.1.json"
+     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen2.1.json"
        },
        {
      "name": "qwen3",
      "type": "nfqws2",
-     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/qwen3.json"
+     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen3.json"
        }
   ]
 }
