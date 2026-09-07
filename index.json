@@ -524,7 +524,7 @@
        {
      "name": "qwen3",
      "type": "nfqws2",
-     "manifest": "https://raw.githubusercontent.com/ТВОЙ_НИК/zaprett-repo/main/manifests/strategies/qwen3.json"
+     "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/qwen3.json"
        }
   ]
 }
