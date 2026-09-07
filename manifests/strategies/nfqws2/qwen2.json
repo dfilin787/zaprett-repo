@@ -6,7 +6,7 @@
   "description": "Жесткая для lte могут быть прирывания by ai qwen",
   "dependencies": [],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/strategies/strategy2.txt",
+    "url": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/strategy2.txt",
     "sha256": "3a55a70cd0fa634c51a6461e89e3c08207bda4abab7052658b9fe73bcb3f6fd2"
   }
 }
