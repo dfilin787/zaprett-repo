@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "qwen2",
+  "version": "1.0.0",
+  "author": "ТВОЙ_НИК",
+  "description": "Жесткая для lte могут быть приревания by ai qwen",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/strategies/nfqws2-lte-hard.txt",
+    "sha256": "ЗДЕСЬ_НУЖНО_ВСТАВИТЬ_ХЕШ"
+  }
+}
