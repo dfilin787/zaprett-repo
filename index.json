@@ -512,17 +512,17 @@
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/byedpi/strategy-yt-new-fix.json"
     },
          {
-     "name": "qwen2",
+     "id": "qwen2",
      "type": "nfqws2",
      "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen2.json"
     },
        {
-     "name": "qwen2.1",
+     "id": "qwen2.1",
      "type": "nfqws2",
      "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen2.1.json"
        },
        {
-     "name": "qwen3",
+     "id": "qwen3",
      "type": "nfqws2",
      "manifest": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/qwen3.json"
        }
